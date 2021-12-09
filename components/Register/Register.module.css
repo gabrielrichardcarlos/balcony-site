@@ -1,0 +1,33 @@
+.register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.register__form {
+  max-width: 360px;
+  width: 100%;
+}
+
+.register__input {
+  margin-bottom: 6px;
+}
+
+.register__submit {
+  margin-top: 6px;
+}
+
+.register__register {
+  text-align: center;
+  margin-top: 6px;
+}
+
+.register__register a {
+  font-weight: 600;
+}
+
+.login__message {
+  margin-top: 12px;
+  font-weight: 700;
+  text-align: center;
+}

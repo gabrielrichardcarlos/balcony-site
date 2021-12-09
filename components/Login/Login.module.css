@@ -1,0 +1,36 @@
+.login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 24px;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.login__form {
+  max-width: 360px;
+  width: 100%;
+}
+
+.login__input {
+  margin-bottom: 6px;
+}
+
+.login__submit {
+  margin-top: 6px;
+}
+
+.login__register {
+  text-align: center;
+  margin-top: 6px;
+}
+
+.login__register a {
+  font-weight: 600;
+}
+
+.login__message {
+  margin-top: 12px;
+  font-weight: 700;
+  text-align: center;
+}

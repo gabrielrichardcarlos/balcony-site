@@ -1,0 +1,13 @@
+.layout {
+  height: 100%;
+}
+
+.layout__sidebar {
+  width: 256px;
+}
+
+.layout__header {
+  width: 1024px;
+  margin: 0 auto;
+  padding-top: 24px;
+}

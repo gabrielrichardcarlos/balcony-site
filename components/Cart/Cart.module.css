@@ -1,0 +1,8 @@
+.cart {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.cart__title {
+  margin-bottom: 24px;
+}
